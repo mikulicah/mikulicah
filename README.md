@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creative coding, A.I. Art, Webart, Generative art, Blockchain, Virtual reality, Metaverse...
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mail: mikulicah@seznam.cz   IG: @mikulicah  Web: honzamikulica.cz
+- 📫 How to reach me E-mail: mikulicah@icloud.com   IG: @mikulicah  Web: honzamikulica.cz
 
 <!---
 mikulicah/mikulicah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
